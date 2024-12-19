@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "A_modern_recipe_app_icon_design_featuring_a_circul.jpg",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
